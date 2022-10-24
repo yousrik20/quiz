@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yousrik20/quiz/static/css/main.31d6cfe0.css",
+    "main.js": "/yousrik20/quiz/static/js/main.88996685.js",
+    "static/js/787.83904489.chunk.js": "/yousrik20/quiz/static/js/787.83904489.chunk.js",
+    "index.html": "/yousrik20/quiz/index.html",
+    "main.88996685.js.map": "/yousrik20/quiz/static/js/main.88996685.js.map",
+    "787.83904489.chunk.js.map": "/yousrik20/quiz/static/js/787.83904489.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.88996685.js"
+  ]
+}
